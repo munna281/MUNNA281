@@ -12,8 +12,8 @@ Demonstrated track record of delivering high-availability L1/L2 enterprise suppo
 ## 👨‍💻 About Me
 * 🎓 **MS in Advanced Computer Science (Merit)** — University of Liverpool (July 2025)
 * 🎓 **BTech in Information Technology (GPA: 7/10)** — Guru Nanak Institute of Technical Campus (June 2021)
-* 💡 Passions: Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
-* 🛠️ Currently focusing on: Cloud systems administration, security best practices, and data visualization.
+* 💡 **Passions: Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
+* 🛠️ **Currently focusing on: Cloud systems administration, security best practices, and data visualization.
 
 ---
 
@@ -32,14 +32,6 @@ Demonstrated track record of delivering high-availability L1/L2 enterprise suppo
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Santhosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 ---
 
 ## 💼 Work Experience
