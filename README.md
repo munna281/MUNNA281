@@ -1,4 +1,6 @@
-# Hi there, I'm Santhosh Banoth 👋
+# # Hi there, I'm Santhosh Banoth 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
 
 ### 🚀 Advanced Computer Science Graduate | IT Support & Data Analyst 
 📍 United Kingdom | 💼 Open to Tech Opportunities
@@ -13,17 +15,29 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ My Skills & Tech Stack
 
-| Category | Technologies & Competencies |
-| :--- | :--- |
-| **Tools & Cloud Tech** | ServiceNow, Microsoft Azure, Azure AD, Microsoft 365, PowerShell, Git, Microsoft Excel, Power BI, Tableau |
-| **Programming & Databases** | Python, SQL, R, C, C++, MySQL |
-| **Operating Systems** | Linux/Unix, Windows, macOS |
-| **ITSM & Support** | Application Support, Incident Management, Troubleshooting, ITIL Framework, Technical Documentation |
-| **Infrastructure & Cyber Security** | IAM, Network Fundamentals, System Administration, Access Management, Azure Fundamentals |
-| **Data & Reporting** | Data Analysis, Data Visualization, Dashboard Development, Business Intelligence (BI) |
+### ☁️ Tools & Cloud Tech
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/servicenow-81B5A3?style=for-the-badge&logo=servicenow&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 💻 Programming & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Santhosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 💼 Work Experience
