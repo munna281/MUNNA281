@@ -70,6 +70,4 @@
 ## 📫 Connect With Me
 * 📧 **Email:** Banothsanthu281@gmail.com
 * 📱 **Phone:** 07721931879
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-* 🐙 **GitHub:** [Your GitHub Profile Link]
-* 📊 **Tableau Portfolio:** [Your Tableau Public Link]
+* 💼 **LinkedIn:** www.linkedin.com/in/santhosh-banoth-52b127179
