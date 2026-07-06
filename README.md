@@ -1,19 +1,19 @@
-# # Hi there, I'm Santhosh Banoth 👋
+# Hi there, I'm Santhosh Banoth 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
 
-## 🎯 Professional Summary
-Result-oriented **Advanced Computer Science graduate (MS, University of Liverpool)** with over 3 years of cross-functional experience bridging **IT Systems Support, Cloud Administration, and Data Analytics**. 
+---
 
-Demonstrated track record of delivering high-availability L1/L2 enterprise support within major tech ecosystems (TCS) and executing complex data analysis frameworks within critical UK government infrastructures (DWP). Proficient in managing cloud workflows (Azure, Azure AD), IT Service Management (ServiceNow, ITIL), and deriving actionable business intelligence using Python, SQL, Power BI, and Tableau. Adept at optimizing system efficiency, ensuring data security compliance, and deploying scalable software solutions.
+## 🎯 Professional Summary
+Result-driven Advanced Computer Science Graduate (MS, University of Liverpool) offering over 3 years of cross-functional expertise bridging Enterprise IT Support, Cloud Infrastructure Administration, and Data Analytics. Demonstrated track record of success driving L1/L2 infrastructure uptime within global tech consultancies (TCS) and spearheading complex data validation frameworks within critical UK government environments (DWP). Proficient in orchestrating cloud workflows (Azure, Azure AD), mastering ITIL-aligned service management (ServiceNow), and translating complex datasets into actionable business intelligence using Python, SQL, Power BI, and Tableau. Recognized for a proactive approach to optimizing systems efficiency, ensuring rigorous cybersecurity/IAM compliance, and engineering scalable software architectures.
 
 ---
 
 ## 👨‍💻 About Me
 * 🎓 **MS in Advanced Computer Science (Merit)** — University of Liverpool (July 2025)
 * 🎓 **BTech in Information Technology (GPA: 7/10)** — Guru Nanak Institute of Technical Campus (June 2021)
-* 💡 **Passions: Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
-* 🛠️ **Currently focusing on: Cloud systems administration, security best practices, and data visualization.
+* 💡 Passions: Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
+* 🛠️ Currently focusing on: Cloud systems administration, security best practices, and data visualization.
 
 ---
 
@@ -32,6 +32,7 @@ Demonstrated track record of delivering high-availability L1/L2 enterprise suppo
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 💼 Work Experience
@@ -78,4 +79,4 @@ Demonstrated track record of delivering high-availability L1/L2 enterprise suppo
 ## 📫 Connect With Me
 * 📧 **Email:** Banothsanthu281@gmail.com
 * 📱 **Phone:** 07721931879
-* 💼 **LinkedIn:** www.linkedin.com/in/santhosh-banoth-52b127179
+* 💼 **LinkedIn:** [Santhosh Banoth](https://www.linkedin.com/in/santhosh-banoth-52b127179)
