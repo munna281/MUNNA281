@@ -1,9 +1,26 @@
 # # Hi there, I'm Santhosh Banoth 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
+# Hi there, I'm Santhosh Banoth 👋
 
-### 🚀 Advanced Computer Science Graduate | IT Support & Data Analyst 
-📍 United Kingdom | 💼 Open to Tech Opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
+
+---
+
+## 🎯 Professional Summary
+Result-oriented **Advanced Computer Science graduate (MS, University of Liverpool)** with over 3 years of cross-functional experience bridging **IT Systems Support, Cloud Administration, and Data Analytics**. 
+
+Demonstrated track record of delivering high-availability L1/L2 enterprise support within major tech ecosystems (TCS) and executing complex data analysis frameworks within critical UK government infrastructures (DWP). Proficient in managing cloud workflows (Azure, Azure AD), IT Service Management (ServiceNow, ITIL), and deriving actionable business intelligence using Python, SQL, Power BI, and Tableau. Adept at optimizing system efficiency, ensuring data security compliance, and deploying scalable software solutions.
+
+---
+
+## 👨‍💻 About Me
+* 🎓 **MS in Advanced Computer Science (Merit)** — University of Liverpool (July 2025)
+...
+## 🎯 Professional Summary
+Result-oriented **Advanced Computer Science graduate (MS, University of Liverpool)** with over 3 years of cross-functional experience bridging **IT Systems Support, Cloud Administration, and Data Analytics**. 
+
+Demonstrated track record of delivering high-availability L1/L2 enterprise support within major tech ecosystems (TCS) and executing complex data analysis frameworks within critical UK government infrastructures (DWP). Proficient in managing cloud workflows (Azure, Azure AD), IT Service Management (ServiceNow, ITIL), and deriving actionable business intelligence using Python, SQL, Power BI, and Tableau. Adept at optimizing system efficiency, ensuring data security compliance, and deploying scalable software solutions.
 
 ---
 
