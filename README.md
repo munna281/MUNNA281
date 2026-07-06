@@ -1,8 +1,6 @@
 # # Hi there, I'm Santhosh Banoth 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
----
-
 ## 🎯 Professional Summary
 Result-oriented **Advanced Computer Science graduate (MS, University of Liverpool)** with over 3 years of cross-functional experience bridging **IT Systems Support, Cloud Administration, and Data Analytics**. 
 
