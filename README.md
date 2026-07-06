@@ -1,10 +1,6 @@
 # # Hi there, I'm Santhosh Banoth 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
-# Hi there, I'm Santhosh Banoth 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Advanced+Computer+Science+Grad;IT+Support+%26+System+Engineer;Data+Analyst" alt="Typing SVG" />
-
 ---
 
 ## 🎯 Professional Summary
