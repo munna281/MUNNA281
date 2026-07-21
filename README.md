@@ -5,15 +5,16 @@
 ---
 
 ## 🎯 Professional Summary
-Result-driven Advanced Computer Science Graduate (MS, University of Liverpool) offering over 3 years of cross-functional expertise bridging Enterprise IT Support, Cloud Infrastructure Administration, and Data Analytics. Demonstrated track record of success driving L1/L2 infrastructure uptime within global tech consultancies (TCS) and spearheading complex data validation frameworks within critical UK government environments (DWP). Proficient in orchestrating cloud workflows (Azure, Azure AD), mastering ITIL-aligned service management (ServiceNow), and translating complex datasets into actionable business intelligence using Python, SQL, Power BI, and Tableau. Recognized for a proactive approach to optimizing systems efficiency, ensuring rigorous cybersecurity/IAM compliance, and engineering scalable software architectures.
+
+MSc Advanced CS Graduate (University of Liverpool) with 3+ years of expertise spanning Cloud Administration, ITIL Service Operations, and Data Engineering. Proven track record at TCS and DWP in maintaining high-availability systems, optimizing complex SQL data pipelines, and delivering executive Power BI analytics while enforcing strict Azure security and governance standards.
 
 ---
 
 ## 👨‍💻 About Me
 * 🎓 **MS in Advanced Computer Science (Merit)** — University of Liverpool (July 2025)
 * 🎓 **BTech in Information Technology (GPA: 7/10)** — Guru Nanak Institute of Technical Campus (June 2021)
-* 💡 Passions: Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
-* 🛠️ Currently focusing on: Cloud systems administration, security best practices, and data visualization.
+* 💡 **Passions:** Leveraging data analytics, optimizing cloud/IT infrastructure, and developing smart software solutions.
+* 🛠️ **Currently focusing on:** Cloud systems administration, security best practices, and data visualization.
 
 ---
 
@@ -38,22 +39,31 @@ Result-driven Advanced Computer Science Graduate (MS, University of Liverpool) o
 ## 💼 Work Experience
 
 ### 🏢 Department for Work and Pensions (DWP), UK
-**Executive Officer – Universal Credit Review** | *May 2026 – Present*
-* Performed structured data analysis and validation of Universal Credit case records and financial datasets to ensure compliance and data integrity.
-* Investigated data anomalies through detailed data review and rule-based decision frameworks, collaborating across teams to maintain operational SLAs.
-* Utilized secure government IT systems to process sensitive data while maintaining strict data protection and cybersecurity standards.
+**Executive Officer – Universal Credit Review** | **May 2026 – Present**
+
+**Data Governance & Precision Analysis:** Executed end-to-end structural data validation and auditing across high-volume Universal Credit financial datasets, enforcing 100% data integrity, regulatory compliance, and policy adherence.
+
+**Complex Anomaly Resolution & SLA Performance:** Leveraged advanced, rule-based decision frameworks to detect and resolve critical data discrepancies—partnering cross-functionally to optimize workflows and consistently hit strict operational SLAs.
+
+**Enterprise Security & Regulatory Compliance:** Administered sensitive financial and personal data across highly secure government IT infrastructure, guaranteeing rigorous audit trails, zero-trust access controls, and total compliance with data protection laws.
 
 ### 🏢 Tata Consultancy Services Ltd. (TCS), India
-**Assistant System Engineer** | *Feb 2022 – Sep 2023*
-* Delivered L1/L2 application and infrastructure support for enterprise core banking systems via ServiceNow, ensuring high availability and SLA compliance.
-* Applied ITIL best practices across Incident, Problem, and Change Management to resolve complex system issues with minimal business impact.
-* Supported software deployments, backup validation, disaster recovery testing, and technical documentation for continuous service improvement.
+**Assistant System Engineer** | **Feb 2022 – Sep 2023**
+
+**Enterprise IT Operations & SLA Management:** Spearheaded L1/L2 application and infrastructure support for high-criticality core banking environments via ServiceNow, maintaining maximum system uptime and exceeding strict operational SLAs.
+
+**ITIL Service Governance:** Managed end-to-end Incident, Problem, and Change Management workflows under ITIL frameworks, performing advanced root-cause analysis and cross-vendor troubleshooting to mitigate business impact.
+
+**Infrastructure Resilience & Disaster Recovery:** Executed enterprise software deployments, backup validations, and comprehensive disaster recovery testing to guarantee system stability, compliance, and zero-downtime business continuity.
 
 ### 🏢 Imbue desk ENS Pvt. Ltd., India
-**Data Analyst** | *Sep 2021 – Feb 2022*
-* Developed and optimized complex SQL queries (joins, CTEs, window functions) to extract, transform, and analyze large relational datasets.
-* Managed end-to-end data processing, including data cleansing, validation, and quality assurance to protect data integrity.
-* Designed and delivered interactive dashboards and KPI reports using Power BI and Tableau to drive business intelligence insights.
+**Data Analyst** | **Sep 2021 – Feb 2022**
+
+**Advanced Data Engineering & SQL Optimization:** Engineered and optimized complex SQL queries—leveraging CTEs, window functions, and multi-table joins—to extract, transform, and aggregate large-scale relational datasets for high-performance analytics.
+
+**End-to-End Data Quality & Governance:** Oversaw end-to-end data pipelines, executing rigorous data cleansing, schema validation, and quality assurance protocols to guarantee high data integrity and consistency across enterprise environments.
+
+**Executive Business Intelligence & Visual Analytics:** Designed and deployed interactive Power BI and Tableau KPI dashboards, translating complex multi-source datasets into high-impact visual intelligence that directly informed strategic decision-making.
 
 ---
 
